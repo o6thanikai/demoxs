@@ -9,6 +9,16 @@ String input1 = "{​​
 "paramIdentity": "dafsdfsd"
 }​​
 }​​"
+
+example 3:
+public static void main(String []arg)
+{
+int a= 12;
+System.out.println(a)
+}
+
+
+
 output = 2
 eample 2:
 String input2 = "}​​
