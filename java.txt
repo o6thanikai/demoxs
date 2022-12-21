@@ -1,0 +1,20 @@
+[11:14 AM] Kaviyarasan P
+    
+find the number of valid set of blocks ?
+
+example 1:
+String input1 = "{​​
+"param": {​​
+"paramName": "country",
+"paramIdentity": "dafsdfsd"
+}​​
+}​​"
+output = 2
+eample 2:
+String input2 = "}​​
+"param": {​​
+"paramName": "country",
+"paramIdentity": "dafsdfsd"
+}​​
+}​​"
+output = 1
