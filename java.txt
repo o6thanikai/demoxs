@@ -15,6 +15,11 @@ public class name{
 } 	public static
 
 
+Arun
+Terrance
+
+
+
 example 3:
 public static void main(String []arg)
 {
